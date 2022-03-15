@@ -4,7 +4,7 @@ Curso o 1º período de Sistemas de Informação pela Universidade Federal Rural
 
 <div align="center">
   <a href="https://github.com/cyberkevinferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberkevinferreira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cyberkevinferreira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberkevinferreira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
