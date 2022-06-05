@@ -1,6 +1,6 @@
 ## Oi, pessoal! Sou o Kevin 👾
 
-Curso o 1º período de Sistemas de Informação pela Universidade Federal Rural de Pernambuco (UFRPE). Estudar e trabalhar com tecnologia são umas das minhas paixões, pois enxergo a capacidade que as máquinas têm em ajudar nós humanos a viver melhor nesse Universo. Adoro estar sempre por dentro das novidades desse mundo tech e aprender mais! Atualmente estou focado nos estudos em Python🐍, Banco de Dados🎲, e HTML/CSS📝, apesar de ter conhecimento de outras ferramentas e áreas.
+Curso o 1º período de Sistemas de Informação pela Universidade Federal Rural de Pernambuco (UFRPE). Estudar e trabalhar com tecnologia são umas das minhas paixões, pois enxergo a capacidade que as máquinas têm em ajudar nós humanos a viver melhor nesse Universo. Adoro estar sempre por dentro das novidades desse mundo tech e aprender mais! Atualmente estou focado nos estudos em PHP🐘, Banco de Dados🎲, e HTML/CSS📝, apesar de ter conhecimento de outras ferramentas e áreas.
 
 <div align="center">
   <a href="https://github.com/cyberkevinferreira">
